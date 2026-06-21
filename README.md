@@ -1,4 +1,4 @@
-# LLM Eval Pulse (V2 Polish)
+# LLM Eval Pulse 
 
 [![Vite Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
 [![Tech Stack](https://img.shields.io/badge/stack-React--Vite--CSS-blue.svg)](#)
