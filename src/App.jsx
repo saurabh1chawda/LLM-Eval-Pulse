@@ -1877,8 +1877,8 @@ function App() {
           <span>LLM Eval Pulse dashboard prototype V2. Maintained by Saurabh Chawda.</span>
         </div>
         <div className="footer-links">
-          <a href="file:///c:/Users/saura/OneDrive/Desktop/LIVE PROTOTYPES/Agoda_TPM/FINAL_PRD.md" target="_blank">FINAL_PRD.md</a>
-          <a href="https://github.com/saurabh1chawda" target="_blank" rel="noreferrer">GitHub Profile</a>
+          <a href="https://github.com/saurabh1chawda/LLM-Eval-Pulse/blob/main/FINAL_PRD.md" target="_blank" rel="noreferrer">FINAL_PRD</a>
+          <a href="https://github.com/saurabh1chawda/LLM-Eval-Pulse/blob/main/README.md" target="_blank" rel="noreferrer">GitHub Profile</a>
         </div>
       </footer>
     </div>
