@@ -1,0 +1,26 @@
+[
+  {
+    "id": "feedback-01",
+    "user_persona": "Junior Applied AI Engineer / General Developer",
+    "type": "UI_CONFUSION",
+    "severity": "High",
+    "component": "Cost Timeline Chart",
+    "pain_point": "The Cost and COPQ timeline chart is completely missing numerical labels or dollar units on the Y-axis. I can see the lines scrolling and intersecting, but I have no way of knowing if the token cost is $0.0001 or $10.00. The scale is completely invisible."
+  },
+  {
+    "id": "feedback-02",
+    "user_persona": "Non-ML Tech Lead / Manager",
+    "type": "USABILITY_ROADBLOCK",
+    "severity": "Medium",
+    "component": "Alert Rules Configuration Form",
+    "pain_point": "The alert builder form uses confusing jargon like 'Window (traces)' and 'Min Samples' without tooltips or labels. As a user, I don't know if 'Window' refers to time in minutes or count of requests. Also, the latency slider threshold lacks units (ms vs seconds)."
+  },
+  {
+    "id": "feedback-03",
+    "user_persona": "ML Engineer",
+    "type": "USER_DELIGHT_GAP",
+    "severity": "Medium",
+    "component": "Recent Traces Audit Log",
+    "pain_point": "When expanding a trace, the Prompt and Response text boxes have no copy-to-clipboard shortcut. When troubleshooting an evaluation failure, I have to highlight and copy the prompt manually to test it in Python. A simple click-to-copy button is missing."
+  }
+]
