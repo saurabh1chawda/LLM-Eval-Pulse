@@ -1878,7 +1878,7 @@ function App() {
         </div>
         <div className="footer-links">
           <a href="file:///c:/Users/saura/OneDrive/Desktop/LIVE PROTOTYPES/Agoda_TPM/FINAL_PRD.md" target="_blank">FINAL_PRD.md</a>
-          <span>GitHub Profile</span>
+          <a href="https://github.com/saurabh1chawda" target="_blank" rel="noreferrer">GitHub Profile</a>
         </div>
       </footer>
     </div>
